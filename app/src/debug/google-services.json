@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888866351675",
+    "project_id": "maptest-ab11f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888866351675:android:85ed4514ccb1f7fa",
+        "android_client_info": {
+          "package_name": "com.facom.android.maptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888866351675-2hkopl74g03n3slec9gg149jjlg1glkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facom.android.maptest",
+            "certificate_hash": "d85e92b356cdc42c4270ead3adc404b56a79d2a1"
+          }
+        },
+        {
+          "client_id": "888866351675-li2p3k7l6jkhngbcjlbssaen8lo6brmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8PlJFShEAYFnsIww-xPptrtrDgiqRk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
